@@ -10,32 +10,28 @@ Add this to a SFF/mATX system with open side panel with acrylic glass from old L
 
 First we wire the unit and run the **stock demo**:
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/stock-demo.jpg?raw=true)
+![screendump stockdemo](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/stock-demo.jpg?raw=true)
 
 Now we look at the simplified block diagram how it works: 
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/block_diagram.png?raw=true)
+![screendump diagram](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/block_diagram.png?raw=true)
 
 Power supply default values IC902:
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/IC902.png?raw=true)
+![screendump IC902](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/IC902.png?raw=true)
 
 Example of IC902 (might slightly differ):
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/TL494.png?raw=true)
+![screendump IC902_2](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/TL494.png?raw=true)
 
 Wire up the TVout output from arduino to the unit:
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/pinout.jpg?raw=true)
-
-Wire up the TVout output from arduino to the unit:
-
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/pinout.jpg?raw=true)
+![screendump TVoutExmaple](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/pinout.jpg?raw=true)
 
 Some of the demos I ran on it:
 
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/demo0.jpg?raw=true)
-![screendump blockchart](https://github.com/StackerDEV/Akai_ECV6607_display/blob/master/imgs/demo1.jpg?raw=true)
+![screendump demo0](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/demo0.jpg?raw=true)
+![screendump demo1](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/demo1.jpg?raw=true)
 
 **Notes:**
 TODO
