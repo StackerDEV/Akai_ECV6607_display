@@ -24,6 +24,10 @@ Example of IC902 (might slightly differ):
 
 ![screendump IC902_2](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/TL494.png?raw=true)
 
+WakeUP IC902 mod for always on (no standby), solder jumper between R939 and R959 next to IC902:
+
+![screendump psuMod](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/IC902_mod.png?raw=true)
+
 Wire up the TVout output from arduino to the unit:
 
 ![screendump TVoutExmaple](https://github.com/StackerDEV/Akai_ECV6607_display/blob/main/imgs/pinout.jpg?raw=true)
